@@ -1,0 +1,34 @@
+{
+  "name": "mochawesome-junit-reporter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "precommit": "eslint *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alaauco/mochawesome-junit-reporter.git"
+  },
+  "keywords": [
+    "mocha",
+    "mochawesome",
+    "junit",
+    "reporter"
+  ],
+  "author": "alaauco",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alaauco/mochawesome-junit-reporter/issues"
+  },
+  "homepage": "https://github.com/alaauco/mochawesome-junit-reporter#readme",
+  "dependencies": {
+    "mocha-junit-reporter": "^1.13.0",
+    "mochawesome": "^2.0.4"
+  },
+  "devDependencies": {
+    "eslint": "^3.18.0",
+    "eslint-config-google": "^0.7.1",
+    "husky": "^0.13.2"
+  }
+}
