@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/alaauco/mochawesome-junit-reporter#readme",
   "dependencies": {
-    "mocha-junit-reporter": "^1.13.0",
+    "mocha-junit-reporter": "^1.15.0",
     "mochawesome": "^2.0.4"
   },
   "devDependencies": {
