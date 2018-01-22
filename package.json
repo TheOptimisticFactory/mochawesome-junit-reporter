@@ -1,14 +1,14 @@
 {
-  "name": "mochawesome-junit-reporter",
+  "name": "@sportheroes/mochawesome-junit-reporter",
   "version": "1.1.0",
-  "description": "mochawesome-junit-reporter",
+  "description": "Fork of mochawesome-junit-reporter from alaauco (https://github.com/alaauco/mochawesome-junit-reporter)",
   "main": "index.js",
   "scripts": {
     "precommit": "eslint *.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alaauco/mochawesome-junit-reporter.git"
+    "url": "git+https://github.com/sportheroes/mochawesome-junit-reporter.git"
   },
   "keywords": [
     "mocha",
@@ -16,12 +16,12 @@
     "junit",
     "reporter"
   ],
-  "author": "alaauco",
+  "author": "Romain GAGNAIRE",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/alaauco/mochawesome-junit-reporter/issues"
+    "url": "https://github.com/sportheroes/mochawesome-junit-reporter/issues"
   },
-  "homepage": "https://github.com/alaauco/mochawesome-junit-reporter#readme",
+  "homepage": "https://github.com/sportheroes/mochawesome-junit-reporter#readme",
   "dependencies": {
     "mocha-junit-reporter": "1.16.0",
     "mochawesome": "3.0.1"
