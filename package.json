@@ -4,7 +4,9 @@
   "description": "Fork of mochawesome-junit-reporter from alaauco (https://github.com/alaauco/mochawesome-junit-reporter)",
   "main": "index.js",
   "scripts": {
-    "precommit": "eslint *.js"
+    "precommit": "eslint *.js",
+    "release": "bk-standard-version",
+    "release-major": "bk-standard-version -- --release-as major"
   },
   "repository": {
     "type": "git",
