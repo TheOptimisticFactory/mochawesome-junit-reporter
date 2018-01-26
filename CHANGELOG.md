@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.2.1"></a>
+## [1.2.1](https://github.com/sportheroes/mochawesome-junit-reporter/compare/v1.2.0...v1.2.1) (2018-01-26)
+
+
+### 🔄 Notable changes
+
+* **Dependencies**: Bumped mocha-junit-reporter version to v1.17.0 ([7706a31](https://github.com/sportheroes/mochawesome-junit-reporter/commit/7706a31) - [JoeTheFkingFrypan](https://github.com/JoeTheFkingFrypan))
+* **Dependencies**: Bumped mochawesome version to v3.0.2 ([c972332](https://github.com/sportheroes/mochawesome-junit-reporter/commit/c972332) - [JoeTheFkingFrypan](https://github.com/JoeTheFkingFrypan))
+
+
+
 <a name="1.2.0"></a>
 # 1.2.0 (2018-01-22)
 
