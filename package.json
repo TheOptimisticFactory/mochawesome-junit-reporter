@@ -26,7 +26,7 @@
   "homepage": "https://github.com/sportheroes/mochawesome-junit-reporter#readme",
   "dependencies": {
     "mocha-junit-reporter": "1.16.0",
-    "mochawesome": "3.0.1"
+    "mochawesome": "3.0.2"
   },
   "devDependencies": {
     "@sportheroes/bk-standard-version": "4.6.1",
