@@ -24,17 +24,17 @@
     "url": "https://github.com/joethefkingfrypan/mochawesome-junit-reporter/issues"
   },
   "homepage": "https://github.com/joethefkingfrypan/mochawesome-junit-reporter#readme",
-  "dependencies": {
-    "mocha-junit-reporter": "1.23.1",
-    "mochawesome": "4.0.1"
-  },
   "peerDependencies": {
-    "mocha": ">=5"
+    "mocha": ">=5",
+    "mocha-junit-reporter": ">=1",
+    "mochawesome": ">=4"
   },
   "devDependencies": {
-    "@sportheroes/bk-standard-version": "5.0.2",
-    "eslint": "6.1.0",
-    "eslint-config-google": "0.13.0",
-    "mocha": ">=5"
+    "@sportheroes/bk-standard-version": "5.0.3",
+    "eslint": "6.4.0",
+    "eslint-config-google": "0.14.0",
+    "mocha": ">=5",
+    "mocha-junit-reporter": ">=1",
+    "mochawesome": ">=4"
   }
 }
