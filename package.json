@@ -1,6 +1,6 @@
 {
   "name": "@joethefkingfrypan/mochawesome-junit-reporter",
-  "version": "1.3.0-rc1",
+  "version": "1.4.0",
   "description": "Fork of mochawesome-junit-reporter from alaauco (https://github.com/alaauco/mochawesome-junit-reporter)",
   "main": "index.js",
   "scripts": {

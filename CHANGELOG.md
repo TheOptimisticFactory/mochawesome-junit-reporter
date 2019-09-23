@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.4.0"></a>
+# [1.4.0](https://github.com/joethefkingfrypan/mochawesome-junit-reporter/compare/v1.2.1...v1.4.0) (2019-09-23)
+
+
+### 🔄 Notable changes
+
+* **Dependencies**: Bumped deps to fix CVE-2019-10744 ([fc1efe5](https://github.com/joethefkingfrypan/mochawesome-junit-reporter/commit/fc1efe5)))
+* **Dependencies**: Moved mochawesome & mocha-junit-reporter to peer deps ([c6d98a8](https://github.com/joethefkingfrypan/mochawesome-junit-reporter/commit/c6d98a8)))
+
+
+
 <a name="1.2.1"></a>
 ## [1.2.1](https://github.com/sportheroes/mochawesome-junit-reporter/compare/v1.2.0...v1.2.1) (2018-01-26)
 
